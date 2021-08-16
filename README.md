@@ -30,6 +30,12 @@ The [./backend](https://github.com/udacity/FSND/blob/master/projects/02_trivia_a
 1. *./backend/flaskr/`__init__.py`*
 2. *./backend/test_flaskr.py*
 
+From backend diractory replace the values in `.env.example` file with your values and rename the file to `.env` file.
+
+```from terminal
+$ pip3 install -r requirements.txt
+$ flask run
+```
 
 ### Frontend
 
